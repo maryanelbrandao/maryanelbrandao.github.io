@@ -1,0 +1,49 @@
+{
+  "projects":[
+    {
+      "id":0,
+      "project_name": "A Random Quote Generator",
+      "description": "Simple app that displays random famous quotes.",
+      "technologies": "JavaScript, CSS, HTML",
+      "live_link": "",
+      "github_link": "https://github.com/maryanelbrandao/techdegree-1stproject",
+      "image_urls": ["/static_node_and_express_site-v1/images/ScreenshotProject1.1.png", "/static_node_and_express_site-v1/images/ScreenshotProject1.2.png"]
+    },
+    {
+      "id":1,
+      "project_name": "List Filter and Pagination",
+      "description": "Web development technique known as \"pagination\" to enhance the usability of a web page.",
+      "technologies": "JavaScript, CSS, HTML",
+      "live_link": "",
+      "github_link": "https://github.com/maryanelbrandao/techdegree-2ndproject",
+      "image_urls":["/static_node_and_express_site-v1/images/ScreenshotProject2.1.png","/static_node_and_express_site-v1/images/ScreenshotProject2.2.png"]
+    },
+    {
+      "id":2,
+      "project_name": "Interactive Form",
+      "description": "In this project was used JavaScript to enchance an interactive registration form.",
+      "technologies": "JavaScript, CSS, HTML",
+      "live_link": "",
+      "github_link": "https://github.com/maryanelbrandao/techdegree-3rdproject",
+      "image_urls": ["/static_node_and_express_site-v1/images/ScreenshotProject3.1.png", "/static_node_and_express_site-v1/images/ScreenshotProject3.2.png", "/static_node_and_express_site-v1/images/ScreenshotProject3.3.png"]
+    },
+    {
+      "id":3,
+      "project_name": "OOP Game App",
+      "description": "In this project was created a browser-based, word guessing game: \"Phrase Hunter\".",
+      "technologies": "JavaScript, CSS, HTML",
+      "live_link": "",
+      "github_link": "https://github.com/maryanelbrandao/techdegree-4thproject",
+      "image_urls":["/static_node_and_express_site-v1/images/ScreenshotProject4.1.png", "/static_node_and_express_site-v1/images/ScreenshotProject4.2.png", "/static_node_and_express_site-v1/images/ScreenshotProject4.3.png", "/static_node_and_express_site-v1/images/ScreenshotProject4.4.png", "/static_node_and_express_site-v1/images/ScreenshotProject4.5.png", "/static_node_and_express_site-v1/images/ScreenshotProject4.6.png"]
+    },
+    {
+      "id":4,
+      "project_name": "Public API Requests",
+      "description": "In this project was created an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+      "technologies": "JavaScript, CSS, HTML",
+      "live_link": "",
+      "github_link": "https://github.com/maryanelbrandao/techdegree-5thproject",
+      "image_urls":["/static_node_and_express_site-v1/images/ScreenshotProject5.1.png", "/static_node_and_express_site-v1/images/ScreenshotProject5.2.png"]
+    },
+  ]
+}
