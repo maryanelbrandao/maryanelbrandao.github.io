@@ -15,3 +15,17 @@ This is the conclusion project of the sixth unit of the TreeHouse Full Stack Jav
    * Pug
    * Express
    * Node.js
+
+### Structure, Style and CSS:
+  1. H6:
+    - Changed padding-bottom: 20px;
+    - Changed the background color
+   2. Button:
+    - Changed background-color: #808080;
+    - Added border-radius: 10px;
+   3. Project-card:
+    - Added padding: 10px;
+    - Added border-radius: 10px;
+   4. Portfolio-index .thumbnail:
+    - Added border-radius:10px;
+   

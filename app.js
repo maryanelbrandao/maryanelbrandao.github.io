@@ -14,7 +14,6 @@ const fourZeroFourError = `The page requested does not exist.`;
 app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-
 app.use('/static', express.static('public'));
 
 /* Setup view engine */
@@ -50,10 +49,8 @@ app.use((err, req, res, next) => {
 });
 
 
-//precisa ver a porta
-let port = process.env.PORT || 3000
+
+let port = process.env.PORT || 5000
 app.listen(port, () => {
-    console.log("This app is running on http://localhost:3000/");
+    console.log("This app is running on http://localhost:5000/");
 });
-© 2020 GitHub, Inc.
-Terms

@@ -1,10 +1,18 @@
 {
-  "name": "static_node_and_express_site-v1",
+  "name": "Techdegree 6th Project",
   "version": "1.0.0",
   "description": "static Node.js and Express Site",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maryanelbrandao/techdegree-6thproject"
   },
   "author": "Maryane",
   "license": "ISC",

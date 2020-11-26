@@ -15,6 +15,7 @@ h1,h2,h3,h4,h5,p{
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
     font-weight: 600;
+    padding-bottom: 20px;
   }
 
   p{
@@ -31,7 +32,9 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #808080;
+  border-radius: 10px;
+
 }
 
 .button:hover{
@@ -147,4 +150,14 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+/*Code added*/
+.project-card {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.portfolio-index .thumbnail {
+  border-radius: 10px;
 }
