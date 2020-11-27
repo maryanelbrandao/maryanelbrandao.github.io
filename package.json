@@ -1,24 +1,28 @@
 {
-  "name": "Techdegree 6th Project",
+  "name": "techdegree-6thproject",
   "version": "1.0.0",
-  "description": "static Node.js and Express Site",
+  "description": "### Interactive Form",
   "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryanelbrandao/maryanelbrandao.github.io.git"
+  },
   "engines": {
     "node": "14.14.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maryanelbrandao/techdegree-6thproject"
-  },
-  "author": "Maryane",
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "install": "^0.13.0",
-    "pug": "^3.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/maryanelbrandao/maryanelbrandao.github.io/issues"
+  },
+  "homepage": "https://github.com/maryanelbrandao/maryanelbrandao.github.io#readme"
 }
